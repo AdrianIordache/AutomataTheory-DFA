@@ -1,3 +1,3 @@
 # AutomataTheory_DFA
 
-Proiect Automat Finit Determinist
+Deterministic Finite Automate Project 1
